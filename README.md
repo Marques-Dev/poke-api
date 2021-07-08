@@ -1,5 +1,5 @@
 # poke-api
 
-consultado API por GET, POST, DEL 
+consultado API 
 
 https://pokeapi.co
