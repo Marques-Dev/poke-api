@@ -1,5 +1,7 @@
-# poke-api
 
-consultado API por GET, POST, DEL 
-
-https://pokeapi.co
+<h4 align="center">Consultando a API: https://pokeapi.co</h4> 
+<div align="center">
+<br><br>
+<div>
+  <img src=""/>
+</div>
